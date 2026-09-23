@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bblcq.cn/sitemap.xml

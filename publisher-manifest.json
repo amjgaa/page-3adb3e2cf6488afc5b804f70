@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "177f74643a19e2d02daa2be2",
+  "owner": "amjgaa",
+  "repo": "page-3adb3e2cf6488afc5b804f70",
+  "title": "大白互联(DBAICloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3adb3e2cf6488afc5b804f70",
+      "a": "大白互联(DBAICloud)",
+      "b": "机场官网线路发布页",
+      "entity": "大白互联(DBAICloud)",
+      "brand": "大白互联(DBAICloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a2bd011d142c34389a59d406f4c33388629e522608b89bca88dfd2fab9504082",
+      "content": {
+        "primary_entity": "大白互联(DBAICloud)",
+        "keyword1": "大白互联(DBAICloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，大白互联(DBAICloud)面向需要稳定海外网络连接的用户，提供按月或按年订阅的套餐组合。基础版每月15元含100GB流量与3台设备，旗舰版每月35元含300GB流量与5台设备，团队版每月85元含1000GB流量与20台设备。按年付费可节省两个月费用。线路分为普通节点池与IPLC专线，团队版支持定制路由，满足不同场景下的连接需求。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐灵活选择",
+          "AI_HERO_INTRO": "大白互联(DBAICloud)提供按月及按年计费的海外加速订阅，覆盖从个人到团队的多档套餐。不同版本在流量、设备数与节点类型上有明显区分，用户可依据自身设备数量和使用强度挑选合适方案。",
+          "AI_VISUAL_TITLE": "订阅方案清晰可选",
+          "AI_HIGHLIGHT_1": "每月100GB至1000GB流量可选",
+          "AI_HIGHLIGHT_2": "支持3台至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付比月付节省约两个月支出",
+          "AI_FEATURES_TITLE": "特点概览",
+          "AI_FEATURES_INTRO": "从流量额度、设备上限到线路类型，三档套餐覆盖不同使用规模，便于按需对比。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合3台设备以内，旗舰版支持5台，团队版可容纳20台同时在线，按手头设备数量直接对应。",
+          "AI_FEATURE_TITLE_2": "流量与周期匹配",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB或1000GB三档流量，配合月付或年付周期，年付价格相当于十个月月费。",
+          "AI_FEATURE_TITLE_3": "线路分层可选",
+          "AI_FEATURE_TEXT_3": "普通节点池满足日常浏览，IPLC专线适合游戏加速，团队版还支持企业定制路由方案。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，导入订阅后即可使用，具体兼容情况以客户端自身说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路类型上逐级提升：基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档，确认月付或年付周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "在订阅页面核对所选套餐的设备数上限与节点类型，确认与当前设备环境匹配。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "参照所用客户端提供的导入说明，将订阅地址填入客户端完成配置，随后连接节点。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "打开所选客户端，找到订阅或配置导入入口，粘贴分配到的订阅地址，保存后更新节点列表即可使用，具体按钮位置以客户端界面为准。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版可容纳20台。超出上限时较早的设备可能被挤下线，按所选套餐控制同时在线数量。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费、灵活度更高，年付一次性支付十二个月费用，价格相当于十个月月费。基础版年付¥150，旗舰版¥350，团队版¥850。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "套餐内流量按月重置，当月用完可等待下月重置，或手动升级到更高流量档位。升级后可立即使用新增流量，具体操作在订阅管理中进行。",
+          "AI_FAQ_QUESTION_5": "IPLC专线和普通节点有什么区别？",
+          "AI_FAQ_ANSWER_5": "普通节点池适合日常网页与流媒体访问；IPLC专线在延迟和稳定性上更有优势，适合游戏加速等对实时性要求高的场景，旗舰版及以上套餐包含。",
+          "AI_CLOSING_TITLE": "按需选择合适套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中选一档即可开始订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bblcq.cn",
+    "host": "bblcq.cn"
+  },
+  "file_hashes": {
+    "index.html": "df6123d7304b4bafe91aa3b40b1f2ddf879fbaa97c5bd8caaab2a60940a345bf",
+    "sitemap.xml": "cbafc596d153392b5d3efac9bfc1ce29bce8721e250b88d6b34bd078d02c2ff5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0789fdbd9b9f83c4032c7200334cc3bf80278f262461263ff6c49d364395eed2",
+    "robots.txt": "0668bb9ae7746d5dc42400242809874939600f29685ea95e1d294136ab05a737",
+    "682f9351bc0c0f69e862877a05fefd6d.txt": "b665c2c144f4f76fc5ef25cd2858af34b82fee8c02aa03d83ee6fb77deb89be0"
+  },
+  "revision": "242d380a4458028296452746dfa2c99958575179eb942cf7c4c42898ddf33410"
+}
